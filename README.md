@@ -22,3 +22,15 @@ xdg-app
 now FlatPak / flatpak
 $XDG_DATA_HOME/unity3d/Unity (local storage for the license information is stored in)
 so this means unity editor is delivered via flatpak it would seem
+
+
+option 1: vnc
+https://github.com/sjb8100/docker-unity3d
+
+option 2:
+https://github.com/GabLeRoux/unity3d-ci-example/blob/master/README.md
+
+
+
+
+https://gitlab.com/gableroux/unity3d
