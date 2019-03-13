@@ -22,6 +22,8 @@ xdg-app
 now FlatPak / flatpak
 $XDG_DATA_HOME/unity3d/Unity (local storage for the license information is stored in)
 so this means unity editor is delivered via flatpak it would seem
+https://wiki.archlinux.org/index.php/XDG_Base_Directory
+ 	Many game engines (Unity 3D, Unreal) follow the specification, but then individual game publishers hardcode the paths in Steam Auto-Cloud causing game-saves to sync to the wrong directory. 
 
 
 option 1: vnc
@@ -33,5 +35,12 @@ https://github.com/GabLeRoux/unity3d-ci-example/blob/master/README.md
 
 
 
+could work, first look at game for steam
+https://github.com/flathub/com.valvesoftware.Steam
+
 
 https://gitlab.com/gableroux/unity3d
+
+
+
+
