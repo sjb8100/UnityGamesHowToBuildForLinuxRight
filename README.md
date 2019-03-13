@@ -26,6 +26,7 @@ so this means unity editor is delivered via flatpak it would seem
 
 option 1: vnc
 https://github.com/sjb8100/docker-unity3d
+https://forum.unity.com/threads/5-4-0p1-fails-to-launch-due-to-license.425277/#post-2941499
 
 option 2:
 https://github.com/GabLeRoux/unity3d-ci-example/blob/master/README.md
