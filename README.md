@@ -1,6 +1,7 @@
 # UnityGamesHowToBuildForLinuxRight
 
-
+Later versions of unity need GTK+ 3.4
+http://www.linuxfromscratch.org/~thomasp/blfs-book-xsl/x/gtk3.html
 
 https://forum.unity.com/threads/unity-rpm-package.460068/
 
@@ -17,3 +18,7 @@ Automatic updates are now supported in GNOME 3.30 via Flatpak in Fedora 29. Flat
 
 
 
+xdg-app
+now FlatPak / flatpak
+$XDG_DATA_HOME/unity3d/Unity (local storage for the license information is stored in)
+so this means unity editor is delivered via flatpak it would seem
